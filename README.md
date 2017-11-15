@@ -1,12 +1,12 @@
 Forked from https://github.com/danfinlay/eth-ens-namehash, and made the following changes:
-
+ng s
 1) replaced idna-uts46 with idna-uts46-hx
 2) changed one line in eth-ens-namehash to downgrade ES6 stringinterpolation to ES5 string concatenation
 
+[Available on NPM](https://www.npmjs.com/package/eth-ens-namehash-ms)
+
 Refer to the source for full functional description: 
 # Eth ENS Namehash [![CircleCI](https://circleci.com/gh/flyswatter/eth-ens-namehash.svg?style=svg)](https://circleci.com/gh/flyswatter/eth-ens-namehash)
-
-[Available on NPM](https://www.npmjs.com/package/eth-ens-namehash-ms)
 
 ## Installation
 
